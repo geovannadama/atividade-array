@@ -7,3 +7,16 @@ body{
     font: Optima, sans-serif;
     font-size: 200%;
 }
+
+#botão{
+    background-color: rgb(107, 192, 242);
+
+}
+
+table, th, td, tr {
+
+    border: 1px solid;
+
+    text-align: center;
+
+  }
